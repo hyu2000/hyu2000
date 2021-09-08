@@ -2,7 +2,7 @@
 
 👀 I’m interested in machine learning and coding in general. Have a background in speech recognition (pre-deep learning revolution).
 
-🌱 I’m currently reading [Deep Learning and the Game of Go](https://github.com/maxpumperla/deep_learning_and_the_game_of_go). Same with the authors, I am a big [Go fan](http://tromp.github.io/gostory.html) and am trying to replicate AlphaGo(Zero), with a meager MacbookPro.
+🌱 I’m currently working on replicating AlphaGo(Zero) on [5x5 Go](https://hyu2000.github.io/go5/model-evolution.html). [Go](http://tromp.github.io/gostory.html) is fun.
 
 Well, so far I was successful in training a small policy network to predict expert moves in TF2 on Google's cloud GPU; got MCTS and selfplay roughly working. And along the way I learned of similar efforts like MuGo, MiniGo and KataGo. There are so many interesting aspects in AlphaZero. Other than 5x5, Go is far from solved!
 
